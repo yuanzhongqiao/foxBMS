@@ -1,31 +1,25 @@
-# The foxBMS Project
-
-![foxBMS](./foxbms.png)
-
-foxBMS is a free, open and flexible development environment to design battery
-management systems. It is the first modular open source BMS development
-platform.
-
-## foxBMS 2
-
-- [latest version foxBMS 2 documentation](https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen2/docs/html/latest/)
-- [Previous versions of the foxBMS 2 documentation](https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen2/docs/html/)
-- Links to specific version are permalinks (e.g.,
-  [foxBMS 2 version 1.0.0](https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen2/docs/html/v1.0.0/))
-- Sources are available at
-  [https://www.github.com/foxBMS/foxbms-2](https://www.github.com/foxBMS/foxbms-2)
-
-## foxBMS 1
-
-- [latest version foxBMS 1 documentation](https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen1/docs/html/latest/)
-- [Previous versions of the foxBMS 1 documentation](https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen1/docs/html/)
-- Links to specific version are permalinks (e.g.,
-  [foxBMS 1 version 1.6.7](https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen1/docs/html/v1.6.7/))
-- Sources are available at
-  [https://www.github.com/foxBMS/foxbms-1](https://www.github.com/foxBMS/foxbms-1)
-
-For more information or if you want to give use some feedback, please [contact us](https://foxbms.org/support/#heading_contact_us).
-
-The Fraunhofer IISB foxBMS Team
-
-[foxbms.org](https://foxbms.org/)
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FoxBMS 项目</font></font></h1><a id="user-content-the-foxbms-project" class="anchor-element" aria-label="永久链接：foxBMS 项目" href="#the-foxbms-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/foxBMS/foxBMS/blob/master/foxbms.png"><img src="/foxBMS/foxBMS/raw/master/foxbms.png" alt="福克斯BMS" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FoxBMS是一个免费、开放且灵活的开发环境，用于设计电池管理系统。</font><font style="vertical-align: inherit;">它是第一个模块化开源BMS开发平台。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">福克斯BMS 2</font></font></h2><a id="user-content-foxbms-2" class="anchor-element" aria-label="永久链接：foxBMS 2" href="#foxbms-2"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen2/docs/html/latest/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最新版本foxBMS 2文档</font></font></a></li>
+<li><a href="https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen2/docs/html/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FoxBMS 2 文档的早期版本</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特定版本的链接是永久链接（例如，
+ </font></font><a href="https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen2/docs/html/v1.0.0/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">foxBMS 2 版本 1.0.0</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来源可在
+</font></font><a href="https://www.github.com/foxBMS/foxbms-2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.github.com/foxBMS/foxbms-2获取</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">福克斯BMS 1</font></font></h2><a id="user-content-foxbms-1" class="anchor-element" aria-label="永久链接：foxBMS 1" href="#foxbms-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen1/docs/html/latest/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最新版本foxBMS 1文档</font></font></a></li>
+<li><a href="https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen1/docs/html/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FoxBMS 1 文档的早期版本</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特定版本的链接是永久链接（例如，
+ </font></font><a href="https://iisb-foxbms.iisb.fraunhofer.de/foxbms/gen1/docs/html/v1.6.7/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">foxBMS 1 版本 1.6.7</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来源可在
+</font></font><a href="https://www.github.com/foxBMS/foxbms-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.github.com/foxBMS/foxbms-1获取</font></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欲了解更多信息或如果您想提供一些反馈，请</font></font><a href="https://foxbms.org/support/#heading_contact_us" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系我们</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fraunhofer IISB FoxBMS 团队</font></font></p>
+<p dir="auto"><a href="https://foxbms.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Foxbms.org</font></font></a></p>
+</article></div>
